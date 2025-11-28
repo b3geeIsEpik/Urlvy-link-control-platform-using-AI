@@ -2,7 +2,7 @@
 
 **Urlvy** transforms long, ugly URLs into memorable slugs, enriches them with **AI-powered** summaries and tracks every click in real-time. Share, analyse, and chat with an AI analyst about your traffic – all in one slick workspace.
 
-**Think “Bitly × Mixpanel” with a built-in data scientist. 🚀🚀**
+**Think “Bitly × Mixpanel” with a built-in data scientist. 🚀**
 
 
 <p align="center">
